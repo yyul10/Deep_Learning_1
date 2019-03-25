@@ -1,6 +1,6 @@
-# Deep Learning
+# Deep Learning 1 : CNN, CAM
 
-## Introduction
+## Configuration
 * Implementing the forward and backward passes as well as the neural network training procedure
 * Implementing the widely-used optimizers and training tricks including dropout
 * Using TensorFlow to train and design a network
